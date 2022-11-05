@@ -59,7 +59,7 @@ https://appetize.io/app/z6bdamah3tlcmeszci5mvlu5gm
 
 ## Social links
 
-facebook.com/edeh.cjjoshua
+https://facebook.com/edeh.cjjoshua
 
 ceejosh360@gmail.com
 
