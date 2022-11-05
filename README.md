@@ -1,16 +1,24 @@
 # hng_resumeapp
 
-A new Flutter project.
+This is a Mobile Application meant for storing an interactive Profile of a mobile developer.
+The Application is meant to be interactive, responsive to Device orientation, Expandable and Minimalist.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+The application consist of 5(five) Basic Profile info of the bearer.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The application will automatically adapt to its System's UI Orientation (Lanscape/Portrait)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application will automatically adapt to its System's ThemeMode (Light/Dark)
+
+
+## Would like to Add
+
+Multi-Lingual feature (languages will change depending on the Locality)
+
+Competitive UI design
+
+WebView integration to view Social Links
+
+
