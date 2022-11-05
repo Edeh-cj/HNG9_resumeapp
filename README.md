@@ -51,8 +51,16 @@ WebView integration to view Social Links
 
 ## APK link
 
-https://drive.google.com/file/d/1QVTMNqkYNPnqSB1v4Zd9BuDQ8Et7-XR3/view?usp=share_link
+(https://drive.google.com/file/d/19MA4Bm0GibP2ZQCMR2mO6dVn8S3yo07J/view?usp=share_link)
 
 ## Appetize.io link
+
+https://appetize.io/app/z6bdamah3tlcmeszci5mvlu5gm
+
+## Social links
+
+facebook.com/edeh.cjjoshua
+
+ceejosh360@gmail.com
 
 
