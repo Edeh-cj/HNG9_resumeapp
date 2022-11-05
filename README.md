@@ -13,6 +13,33 @@ The application will automatically adapt to its System's UI Orientation (Lanscap
 The application will automatically adapt to its System's ThemeMode (Light/Dark)
 
 
+## CodeBase
+
+The codebase consists three major components: main.dart, app.dart, and the screen folder.
+
+The 'main' is where I execute the application, 'app.dart' is where I manage the MaterialApp for Theming and such.
+
+the screen folders are where the screen widgets reside display.
+
+There were very little need for state management techniques.
+
+
+## Design
+
+The app consists of two pages/screens, the 'homepage' and 'aboutpage' screens.
+
+The Design is Minimalist. 
+
+When the user taps on a textbutton labelled 'check me out', the app navigates to Aboutpage screen.
+
+The Aboutpage also has a back button to navigate back to the homepage.
+
+
+## Libraries
+
+Material Library: The only library used for this project. The library makes it easy to implement material design on the application.
+
+
 ## Would like to Add
 
 Multi-Lingual feature (languages will change depending on the Locality)
@@ -20,5 +47,10 @@ Multi-Lingual feature (languages will change depending on the Locality)
 Competitive UI design
 
 WebView integration to view Social Links
+
+
+## APK link
+
+## Appetize.io link
 
 
